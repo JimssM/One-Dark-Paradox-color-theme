@@ -3,6 +3,7 @@
     "displayName": "One Dark Paradox Theme",
     "description": "A theme to Paradox Syntax Highlighting",
     "version": "0.0.1",
+    "publisher": "JimssM",
     "repository": "https://github.com/JimssM/One-Dark-Paradox-color-theme",
     "engines": {
         "vscode": "^1.12.0"
