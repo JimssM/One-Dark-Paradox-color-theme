@@ -1,21 +1,22 @@
 {
-  "name": "one-dark-paradox-theme",
-  "displayName": "One Dark Paradox Theme",
-  "description": "A theme to Paradox Syntax Highlighting",
-  "version": "0.0.1",
-  "engines": {
-    "vscode": "^1.78.0"
-  },
-  "categories": [
-    "Themes"
-  ],
-  "contributes": {
-    "themes": [
-      {
-        "label": "One Dark Paradox Theme",
-        "uiTheme": "vs-dark",
-        "path": "./themes/One Dark Paradox Theme-color-theme.json"
-      }
-    ]
-  }
+    "name": "one-dark-paradox-theme",
+    "displayName": "One Dark Paradox Theme",
+    "description": "A theme to Paradox Syntax Highlighting",
+    "version": "0.0.1",
+    "repository": "https://github.com/JimssM/One-Dark-Paradox-color-theme",
+    "engines": {
+        "vscode": "^1.12.0"
+    },
+    "categories": [
+        "Themes"
+    ],
+    "contributes": {
+        "themes": [
+            {
+                "label": "One Dark Paradox Theme",
+                "uiTheme": "vs-dark",
+                "path": "./themes/one-dark-paradox-color-theme.tmLanguage.json"
+            }
+        ]
+    }
 }
